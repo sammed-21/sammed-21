@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sammed-21
 - 👀 I’m interested in Blockchain development 
 - 🌱 I’m currently learning solidity/truffle/hardhat/defi by building project 
-- 💞️ I really want to collaborate on open source project ,I learnt it
+- 💞️ I really want to collaborate on open source project 
 - 📫 How to reach me https://www.linkedin.com/in/sammed-betadur-8b9b291a5/
 
 <!---
