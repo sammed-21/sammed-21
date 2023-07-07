@@ -5,6 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/sammed-betadur-8b9b291a5/
 - 📫 How to reach me https://twitter.com/samjain2001
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!---
 sammed-21/sammed-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
