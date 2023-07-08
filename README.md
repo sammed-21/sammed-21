@@ -9,7 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammed-21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ![sammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed-21&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammed-21)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammed-21&exclude_repo=github-readme-stats,sammed-21.github.io)
 <!---
 sammed-21/sammed-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
