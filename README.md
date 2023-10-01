@@ -17,9 +17,9 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <div align="center">
+<!--   <div align="center">
   <img src="https://media.giphy.com/media/V6KJEbpPYQd1hkYFwD/giphy.gif" width="500" height="300"/>
-</div>
+</div> -->
 </div>
   ---
  
@@ -61,12 +61,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sammed-21&theme=dark)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammed-21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) !
 
-[sammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed-21&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammed-21&exclude_repo=github-readme-stats,sammed-21.github.io)
 <!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammed-21&exclude_repo=github-readme-stats,sammed-21.github.io)
+[sammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed-21&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sammed-21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) !
 sammed-21/sammed-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
