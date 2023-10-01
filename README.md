@@ -69,4 +69,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammed-21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) !
 sammed-21/sammed-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+web developer| blockchain developer | React | Next | Typescript | TailwindCss | Javascript | Node.js | Express.js
 --->
