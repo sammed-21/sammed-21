@@ -26,9 +26,9 @@
     
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Frontend Web3 Developer, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- :telescope: I’m looking for a Software Engineer role and Intrested in frontend , backend and Blockchain  for building web applications.
+- :telescope: I'm passionate about creating intuitive UIs, building Web3 and DeFi applications, and ensuring smart contract security. I love exploring new protocols, backend technologies, and blockchain development to craft innovative solutions for the decentralized web
 
 - :seedling: Exploring backend and blockchain.
 
