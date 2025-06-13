@@ -27,16 +27,18 @@
 </div>
   ---
  
-    
-
 ### 👨‍💻 About Me  
-👋 Hey, I’m Sammed — a Frontend-focused Web3 Developer and Full stack web3 developer exploring the boundaries of DeFi.
 
-⚡ Building DEXs, improving user experience across chains (EVM + Solana curious), and diving into protocol design.
-🧠 Currently learning more about subgraphs, backend infra, and impermanent loss mechanics, building exchanges and learning preps(soon building for trunkswap-preps).
-🛠 Stack: Next.js, Ethers.js, TailwindCSS, Zustand, Node.js, Solidity , Nodes.js, Typescript, TradingView Chart, Uniswap v2
-🌐 Check out my latest project: https://trunkswap.vercel.app
----
+👋 Hey, I’m Sammed — a frontend-first and full-stack Web3 developer exploring the future of DeFi.
+
+- ⚡ Building DEXs and enhancing UX across EVM chains (Solana curious).  
+- 🧠 Diving into subgraphs, backend infra, and impermanent loss mechanics.  
+- 🔧 Currently working on exchange logic and TrunkSwap Preps.  
+- 🛠 Tech stack: Next.js, Ethers.js, TailwindCSS, Zustand, Node.js, Solidity, TypeScript, TradingView Charts, Uniswap V2, subgraph(graphql indexing)
+- 🌐 Latest project: [trunkswap.vercel.app](https://trunkswap.vercel.app)
+
+📫 Connect with me: [@0xSam_21](https://x.com/0xSam_21)
+
 
 ### 🛠️ Languages & Tools
 
