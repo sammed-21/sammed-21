@@ -30,13 +30,12 @@
     
 
 ### 👨‍💻 About Me  
-Hi there! I'm a passionate **Full Stack Web3 Developer** and **Frontend Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Code GIF">. I thrive at the intersection of elegant UI design and decentralized innovation.
+👋 Hey, I’m Sammed — a Frontend-focused Web3 Developer and Full stack web3 developer exploring the boundaries of DeFi.
 
-- 🔭 Currently building intuitive, secure, and scalable **DeFi** and **Web3** applications.  
-- 🌱 Exploring the depths of **backend development** and **smart contract ecosystems**.  
-- ⚡ In my free time, I dive into new technologies, explore blockchain protocols, and read up on tech trends.  
-- 📬 Let’s connect: [![X Badge](https://img.shields.io/badge/-sammed-black?style=flat&logo=X&logoColor=white)](https://x.com/0xSam_21)
-
+⚡ Building DEXs, improving user experience across chains (EVM + Solana curious), and diving into protocol design.
+🧠 Currently learning more about subgraphs, backend infra, and impermanent loss mechanics, building exchanges and learning preps(soon building for trunkswap-preps).
+🛠 Stack: Next.js, Ethers.js, TailwindCSS, Zustand, Node.js, Solidity , Nodes.js, Typescript, TradingView Chart, Uniswap v2
+🌐 Check out my latest project: https://trunkswap.vercel.app
 ---
 
 ### 🛠️ Languages & Tools
