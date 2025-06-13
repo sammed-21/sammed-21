@@ -5,6 +5,9 @@
     <a href="https://www.linkedin.com/in/sammed-betadur-8b9b291a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://blog-app-next-js-liard.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoColor=black" alt="Portfolio Badge"/>
+  </a>
    <a href="https://x.com/0xSam_21">
     <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
