@@ -5,11 +5,11 @@
     <a href="https://www.linkedin.com/in/sammed-betadur-8b9b291a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://t.me/Sammed_21">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://twitter.com/samjain2001">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x/0xSam_21">
+    <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </br>
   <img src="https://komarev.com/ghpvc/?username=sammed-21&style=flat-square&color=blue" alt=""/>
