@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/sammed-betadur-8b9b291a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+   <a>
     <a href="https://blog-app-next-js-liard.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoColor=black" alt="Portfolio Badge"/>
   </a>
