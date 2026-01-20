@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
@@ -18,10 +18,7 @@
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<!--   <div align="center">
-  <img src="https://media.giphy.com/media/V6KJEbpPYQd1hkYFwD/giphy.gif" width="500" height="300"/>
-</div> -->
+</h1> 
 </div>
   ---
  
@@ -38,7 +35,9 @@
 📫 Connect with me: [@0xSam_21](https://x.com/0xSam_21)
 
 
-### 🛠️ Languages & Tools
+### 🛠️ Defi and Web3
+
+
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -63,14 +62,77 @@
 ### 🔥 GitHub Activity  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sammed-21&theme=dark)](https://git.io/streak-stats)
 
+  -->
+
+  <div id="header" align="center" items="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://komarev.com/ghpvc/?username=sammed-21&style=flat-square&color=blue" alt=""/>
+    
+</div>
+
+<div id="badges" align="center">
+  <a href="https://blog-app-next-js-liard.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoColor=black" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://x.com/0xSam_21">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://t.me/Sammed_21">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  
+
+</div>
 
 
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammed-21&exclude_repo=github-readme-stats,sammed-21.github.io)
-[sammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammed-21&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammed-21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) !
-sammed-21/sammed-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<h1 align="center">
+  Hey there 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+ 
+## 👨‍💻 About Me  
 
-web developer| blockchain developer | React | Next | Typescript | TailwindCss | Javascript | Node.js | Express.js
---->
+I’m **Sammed**, a frontend-first and full-stack **DeFi engineer** building user-facing infrastructure for onchain finance.
+
+- ⚡ Building DEX frontends and exchange UX across EVM chains  
+- 🧠 Deep into subgraphs, backend infra, and protocol mechanics  
+- 🔧 Currently working on exchange logic and **TrunkSwap**  
+- 🌐 Latest project: [trunkswap.vercel.app](https://trunkswap.vercel.app)
+
+### Core Focus
+- DeFi UX & frontend architecture  
+- Onchain data indexing (The Graph, subgraphs)  
+- AMMs, liquidity, and exchange mechanics  
+- Bridging frontend assumptions with protocol risk  
+
+📫 Connect with me: [@0xSam_21](https://x.com/0xSam_21)
+
+---
+
+## 🛠️ DeFi & Web3 Stack
+
+<h3>Protocols & Ecosystem</h3>
+
+<img src="https://cryptologos.cc/logos/uniswap-uni-logo.svg" title="Uniswap" alt="Uniswap" width="40" height="40"/>&nbsp;
+<img src="https://cryptologos.cc/logos/aave-aave-logo.svg" title="Aave" alt="Aave" width="40" height="40"/>&nbsp;
+<img src="https://cryptologos.cc/logos/compound-comp-logo.svg" title="Compound" alt="Compound" width="40" height="40"/>&nbsp;
+<img src="https://cryptologos.cc/logos/curve-dao-token-crv-logo.svg" title="Curve" alt="Curve" width="40" height="40"/>&nbsp;
+<img src="https://cryptologos.cc/logos/chainlink-link-logo.svg" title="Chainlink" alt="Chainlink" width="40" height="40"/>&nbsp;
+
+<h3>Web3 Tooling</h3>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/ethersjs/ethersjs-original.svg" title="Ethers.js" alt="Ethers.js" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/foundry/foundry-original.svg" title="Foundry" alt="Foundry" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL / The Graph" alt="GraphQL" width="40" height="40"/>&nbsp;
+
+<h3>Frontend & Backend</h3>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+
+---
+ 
